@@ -8,7 +8,7 @@ Ele será construído colaborativamente pelos estudantes de Engenharia de Softwa
 
 [Object-Orientation Abusers](https://github.com/andreabord/refatoracao/wiki/Object%E2%80%90Orientation-Abusers)
 
-[Change Preventers](https://github.com/andreabord/refatoracao/wiki/Bloaters)
+[Change Preventers](https://github.com/andreabord/refatoracao/wiki/Change-Preventers)
 
 [Dispensables](https://github.com/andreabord/refatoracao/wiki/Bloaters)
 
