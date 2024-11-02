@@ -10,6 +10,6 @@ Ele será construído colaborativamente pelos estudantes de Engenharia de Softwa
 
 [Change Preventers](https://github.com/andreabord/refatoracao/wiki/Change-Preventers)
 
-[Dispensables](https://github.com/andreabord/refatoracao/wiki/Bloaters)
+[Dispensables](https://github.com/andreabord/refatoracao/wiki/Dispensables)
 
 [Couplers](https://github.com/andreabord/refatoracao/wiki/Bloaters)
