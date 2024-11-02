@@ -12,4 +12,4 @@ Ele será construído colaborativamente pelos estudantes de Engenharia de Softwa
 
 [Dispensables](https://github.com/andreabord/refatoracao/wiki/Dispensables)
 
-[Couplers](https://github.com/andreabord/refatoracao/wiki/Bloaters)
+[Couplers](https://github.com/andreabord/refatoracao/wiki/Couplers)
