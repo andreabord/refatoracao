@@ -1,4 +1,4 @@
-# Refatoracao
+# Refatoração
 Repositório com exemplos de code smells e refatorações.
 
 Este repositório foi criado com o objetivo de prover exemplos de code smells e refatorações. 
